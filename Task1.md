@@ -1,9 +1,3 @@
-<style>
-    . {
-        background-color: black;
-    }
-</style>
-
 # Task-1
 
 Following are the few subtasks that will help you run through the python essentials for getting started with AI and ML.
@@ -70,4 +64,4 @@ Python has tools for almost every aspect of scientific computing. The Bank of Am
 <br><br>
 
 ## __Submission Link__
-(https://forms.gle/Vn5LUBo4k62FFFez6)
+https://forms.gle/Vn5LUBo4k62FFFez6

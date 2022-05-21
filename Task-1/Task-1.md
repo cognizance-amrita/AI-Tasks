@@ -33,7 +33,7 @@ File Handling is one of the basic important task when it comes to building machi
 ### Data formatting
 Python libraries represent missing numbers as nan which is short for "not a number". Most libraries (including scikit-learn) will give you an error if you try to build a model using data with missing values. One of the common solution to get around this issue is to impute or fill in the missing value with a number or value of same format. From the given dataset, find the missing values(Nan/NA/-/Nil) and change those values into an appropriate number.
 
-> [Dataset link](https://github.com/cognizance-amrita/AI-Tasks/blob/main/Q2-Dataset.csv)
+> [Dataset link](https://github.com/cognizance-amrita/AI-Tasks/blob/main/Task-1/Q2-Dataset.csv)
 
 <br>
 
@@ -52,7 +52,7 @@ Python has tools for almost every aspect of scientific computing. The Bank of Am
 ## Q4
 #### Given food name, price, rating(out of 5) and their datatypes, create a structured array using NumPy and sort the array on rating
 
-> [Dataset link](https://github.com/cognizance-amrita/AI-Tasks/blob/main/Q4-Dataset.csv)
+> [Dataset link](https://github.com/cognizance-amrita/AI-Tasks/blob/main/Task-1/Q4-Dataset.csv)
 
 <br>
 

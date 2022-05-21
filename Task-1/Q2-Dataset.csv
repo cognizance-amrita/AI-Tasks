@@ -1,0 +1,100 @@
+Id,MSSubClass,MSZoning,LotFrontage,LotArea,Street,Alley,LotShape,LandContour,Utilities,LotConfig,LandSlope,Neighborhood,Condition1,Condition2,BldgType,HouseStyle,OverallQual,OverallCond,YearBuilt,YearRemodAdd,RoofStyle,RoofMatl,Exterior1st,Exterior2nd,MasVnrType,MasVnrArea,ExterQual,ExterCond,Foundation,BsmtQual,BsmtCond,BsmtExposure,BsmtFinType1,BsmtFinSF1,BsmtFinType2
+1,60,RL,65,8450,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,196,Gd,TA,PConc,Gd,TA,No,GLQ,706,Unf
+2,20,RL,80,9600,Pave,NA,Reg,Lvl,AllPub,FR2,Gtl,Veenker,Feedr,Norm,1Fam,1Story,6,8,1976,1976,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock,Gd,TA,Gd,ALQ,978,Unf
+3,60,RL,68,11250,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,2Story,7,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,162,Gd,TA,PConc,Gd,TA,Mn,GLQ,486,Unf
+4,70,RL,60,9550,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,Crawfor,Norm,Norm,1Fam,2Story,7,5,1915,1970,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,BrkTil,TA,Gd,No,ALQ,216,Unf
+5,60,RL,84,14260,Pave,NA,IR1,Lvl,AllPub,FR2,Gtl,NoRidge,Norm,Norm,1Fam,2Story,8,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,350,Gd,TA,PConc,Gd,TA,Av,GLQ,655,Unf
+6,50,RL,85,14115,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,Mitchel,Norm,Norm,1Fam,1.5Fin,5,5,1993,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,Wood,Gd,TA,No,GLQ,732,Unf
+7,20,RL,75,10084,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Norm,1Fam,1Story,8,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,Stone,186,Gd,TA,PConc,Ex,TA,Av,GLQ,1369,Unf
+8,60,RL,NA,10382,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,NWAmes,PosN,Norm,1Fam,2Story,7,6,1973,1973,Gable,CompShg,HdBoard,HdBoard,Stone,240,TA,TA,CBlock,Gd,TA,Mn,ALQ,859,BLQ
+9,50,RM,51,6120,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,OldTown,Artery,Norm,1Fam,1.5Fin,7,5,1931,1950,Gable,CompShg,BrkFace,Wd Shng,None,0,TA,TA,BrkTil,TA,TA,No,Unf,0,Unf
+10,190,RL,50,7420,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,BrkSide,Artery,Artery,2fmCon,1.5Unf,5,6,1939,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil,TA,TA,No,GLQ,851,Unf
+11,20,RL,70,11200,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Norm,1Fam,1Story,5,5,1965,1965,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock,TA,TA,No,Rec,906,Unf
+12,60,RL,85,11924,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Norm,1Fam,2Story,9,5,2005,2006,Hip,CompShg,WdShing,Wd Shng,Stone,286,Ex,TA,PConc,Ex,TA,No,GLQ,998,Unf
+13,20,RL,NA,12968,Pave,NA,IR2,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Norm,1Fam,1Story,5,6,1962,1962,Hip,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock,TA,TA,No,ALQ,737,Unf
+14,20,RL,91,10652,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,1Story,7,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,Stone,306,Gd,TA,PConc,Gd,TA,Av,Unf,0,Unf
+15,20,RL,NA,10920,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Norm,1Fam,1Story,6,5,1960,1960,Hip,CompShg,MetalSd,MetalSd,BrkFace,212,TA,TA,CBlock,TA,TA,No,BLQ,733,Unf
+16,45,RM,51,6120,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,BrkSide,Norm,Norm,1Fam,1.5Unf,7,8,1929,2001,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil,TA,TA,No,Unf,0,Unf
+17,20,RL,NA,11241,Pave,NA,IR1,Lvl,AllPub,CulDSac,Gtl,NAmes,Norm,Norm,1Fam,1Story,6,7,1970,1970,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,180,TA,TA,CBlock,TA,TA,No,ALQ,578,Unf
+18,90,RL,72,10791,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Norm,Duplex,1Story,4,5,1967,1967,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,Slab,NA,NA,NA,NA,0,NA
+19,20,RL,66,13695,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,SawyerW,RRAe,Norm,1Fam,1Story,5,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc,TA,TA,No,GLQ,646,Unf
+20,20,RL,70,7560,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,6,1958,1965,Hip,CompShg,BrkFace,Plywood,None,0,TA,TA,CBlock,TA,TA,No,LwQ,504,Unf
+21,60,RL,101,14215,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,NridgHt,Norm,Norm,1Fam,2Story,8,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,380,Gd,TA,PConc,Ex,TA,Av,Unf,0,Unf
+22,45,RM,57,7449,Pave,Grvl,Reg,Bnk,AllPub,Inside,Gtl,IDOTRR,Norm,Norm,1Fam,1.5Unf,7,7,1930,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc,TA,TA,No,Unf,0,Unf
+23,20,RL,75,9742,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,1Story,8,5,2002,2002,Hip,CompShg,VinylSd,VinylSd,BrkFace,281,Gd,TA,PConc,Gd,TA,No,Unf,0,Unf
+24,120,RM,44,4224,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,Norm,TwnhsE,1Story,5,7,1976,1976,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,PConc,Gd,TA,No,GLQ,840,Unf
+25,20,RL,NA,8246,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Norm,1Fam,1Story,5,8,1968,2001,Gable,CompShg,Plywood,Plywood,None,0,TA,Gd,CBlock,TA,TA,Mn,Rec,188,ALQ
+26,20,RL,110,14230,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,NridgHt,Norm,Norm,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,640,Gd,TA,PConc,Gd,TA,No,Unf,0,Unf
+27,20,RL,60,7200,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,7,1951,2000,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock,TA,TA,Mn,BLQ,234,Rec
+28,20,RL,98,11478,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Norm,1Fam,1Story,8,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,200,Gd,TA,PConc,Ex,TA,No,GLQ,1218,Unf
+29,20,RL,47,16321,Pave,NA,IR1,Lvl,AllPub,CulDSac,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,6,1957,1997,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock,TA,TA,Gd,BLQ,1277,Unf
+30,30,RM,60,6324,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,BrkSide,Feedr,RRNn,1Fam,1Story,4,6,1927,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil,TA,TA,No,Unf,0,Unf
+31,70,C (all),50,8500,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,IDOTRR,Feedr,Norm,1Fam,2Story,4,4,1920,1950,Gambrel,CompShg,BrkFace,BrkFace,None,0,TA,Fa,BrkTil,TA,TA,No,Unf,0,Unf
+32,20,RL,NA,8544,Pave,NA,IR1,Lvl,AllPub,CulDSac,Gtl,Sawyer,Norm,Norm,1Fam,1Story,5,6,1966,2006,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock,TA,TA,No,Unf,0,Unf
+33,20,RL,85,11049,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,Norm,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc,Ex,TA,Av,Unf,0,Unf
+34,20,RL,70,10552,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,5,1959,1959,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock,TA,TA,No,Rec,1018,Unf
+35,120,RL,60,7313,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Norm,TwnhsE,1Story,9,5,2005,2005,Hip,CompShg,MetalSd,MetalSd,BrkFace,246,Ex,TA,PConc,Ex,TA,No,GLQ,1153,Unf
+36,60,RL,108,13418,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Norm,1Fam,2Story,8,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,Stone,132,Gd,TA,PConc,Ex,TA,Av,Unf,0,Unf
+37,20,RL,112,10859,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,Norm,1Fam,1Story,5,5,1994,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc,Gd,TA,No,Unf,0,Unf
+38,20,RL,74,8532,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,6,1954,1990,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,650,TA,TA,CBlock,TA,TA,No,Rec,1213,Unf
+39,20,RL,68,7922,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,7,1953,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock,TA,TA,No,GLQ,731,Unf
+40,90,RL,65,6040,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Edwards,Norm,Norm,Duplex,1Story,4,5,1955,1955,Gable,CompShg,AsbShng,Plywood,None,0,TA,TA,PConc,NA,NA,NA,NA,0,NA
+41,20,RL,84,8658,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,6,5,1965,1965,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,101,TA,TA,CBlock,TA,TA,No,Rec,643,Unf
+42,20,RL,115,16905,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Timber,Norm,Norm,1Fam,1Story,5,6,1959,1959,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock,TA,TA,Gd,BLQ,967,Unf
+43,85,RL,NA,9180,Pave,NA,IR1,Lvl,AllPub,CulDSac,Gtl,SawyerW,Norm,Norm,1Fam,SFoyer,5,7,1983,1983,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock,Gd,TA,Av,ALQ,747,LwQ
+44,20,RL,NA,9200,Pave,NA,IR1,Lvl,AllPub,CulDSac,Gtl,CollgCr,Norm,Norm,1Fam,1Story,5,6,1975,1980,Hip,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock,Gd,TA,Av,LwQ,280,BLQ
+45,20,RL,70,7945,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,6,1959,1959,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,CBlock,TA,TA,No,ALQ,179,BLQ
+46,120,RL,61,7658,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Norm,TwnhsE,1Story,9,5,2005,2005,Hip,CompShg,MetalSd,MetalSd,BrkFace,412,Ex,TA,PConc,Ex,TA,No,GLQ,456,Unf
+47,50,RL,48,12822,Pave,NA,IR1,Lvl,AllPub,CulDSac,Gtl,Mitchel,Norm,Norm,1Fam,1.5Fin,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc,Ex,TA,No,GLQ,1351,Unf
+48,20,FV,84,11096,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Norm,1Fam,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc,Gd,TA,Av,GLQ,24,Unf
+49,190,RM,33,4456,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,OldTown,Norm,Norm,2fmCon,2Story,4,5,1920,2008,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil,TA,TA,No,Unf,0,Unf
+50,20,RL,66,7742,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Norm,1Fam,1Story,5,7,1966,1966,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock,TA,TA,No,BLQ,763,Unf
+51,60,RL,NA,13869,Pave,NA,IR2,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,Norm,1Fam,2Story,6,6,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc,Gd,TA,Av,GLQ,182,Unf
+52,50,RM,52,6240,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,Norm,1Fam,1.5Fin,6,6,1934,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc,TA,TA,No,Unf,0,Unf
+53,90,RM,110,8472,Grvl,NA,IR2,Bnk,AllPub,Corner,Mod,IDOTRR,RRNn,Norm,Duplex,1Story,5,5,1963,1963,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Fa,TA,CBlock,Gd,TA,Gd,LwQ,104,GLQ
+54,20,RL,68,50271,Pave,NA,IR1,Low,AllPub,Inside,Gtl,Veenker,Norm,Norm,1Fam,1Story,9,5,1981,1987,Gable,WdShngl,WdShing,Wd Shng,None,0,Gd,TA,CBlock,Ex,TA,Gd,GLQ,1810,Unf
+55,80,RL,60,7134,Pave,NA,Reg,Bnk,AllPub,Inside,Mod,NAmes,Norm,Norm,1Fam,SLvl,5,5,1955,1955,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock,TA,TA,No,ALQ,384,Unf
+56,20,RL,100,10175,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,6,5,1964,1964,Gable,CompShg,HdBoard,Plywood,BrkFace,272,TA,TA,CBlock,TA,TA,No,BLQ,490,Unf
+57,160,FV,24,2645,Pave,Pave,Reg,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Norm,Twnhs,2Story,8,5,1999,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,456,Gd,TA,PConc,Gd,TA,No,GLQ,649,Unf
+58,60,RL,89,11645,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,CollgCr,Norm,Norm,1Fam,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc,Gd,TA,No,Unf,0,Unf
+59,60,RL,66,13682,Pave,NA,IR2,HLS,AllPub,CulDSac,Gtl,StoneBr,Norm,Norm,1Fam,2Story,10,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,1031,Ex,TA,PConc,Ex,TA,Gd,Unf,0,Unf
+60,20,RL,60,7200,Pave,NA,Reg,Bnk,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,1Story,5,7,1972,1972,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock,TA,TA,Av,ALQ,632,Unf
+61,20,RL,63,13072,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,SawyerW,RRAe,Norm,1Fam,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc,Gd,TA,No,ALQ,941,Unf
+62,75,RM,60,7200,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,IDOTRR,Norm,Norm,1Fam,2.5Unf,5,7,1920,1996,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil,TA,Fa,No,Unf,0,Unf
+63,120,RL,44,6442,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Norm,TwnhsE,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,178,Gd,TA,PConc,Gd,Gd,Mn,GLQ,24,Unf
+64,70,RM,50,10300,Pave,NA,IR1,Bnk,AllPub,Inside,Gtl,OldTown,RRAn,Feedr,1Fam,2Story,7,6,1921,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,TA,BrkTil,TA,TA,No,Unf,0,Unf
+65,60,RL,NA,9375,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,2Story,7,5,1997,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,573,TA,TA,PConc,Gd,TA,No,GLQ,739,Unf
+66,60,RL,76,9591,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NridgHt,Norm,Norm,1Fam,2Story,8,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,344,Gd,TA,PConc,Ex,TA,Av,Unf,0,Unf
+67,20,RL,NA,19900,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,PosA,Norm,1Fam,1Story,7,5,1970,1989,Gable,CompShg,Plywood,Plywood,BrkFace,287,TA,TA,CBlock,Gd,TA,Gd,GLQ,912,Unf
+68,20,RL,72,10665,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,1Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,167,Gd,TA,PConc,Gd,TA,Av,GLQ,1013,Unf
+69,30,RM,47,4608,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,OldTown,Artery,Norm,1Fam,1Story,4,6,1945,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock,TA,TA,No,Unf,0,Unf
+70,50,RL,81,15593,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,ClearCr,Norm,Norm,1Fam,1.5Fin,7,4,1953,1953,Gable,CompShg,BrkFace,AsbShng,None,0,Gd,TA,CBlock,TA,TA,No,BLQ,603,Unf
+71,20,RL,95,13651,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,7,6,1973,1973,Gable,CompShg,Plywood,Plywood,BrkFace,1115,TA,Gd,CBlock,Gd,TA,Gd,ALQ,1880,Unf
+72,20,RL,69,7599,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,Mitchel,Norm,Norm,1Fam,1Story,4,6,1982,2006,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock,TA,TA,No,ALQ,565,Unf
+73,60,RL,74,10141,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,Norm,1Fam,2Story,7,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,40,TA,TA,PConc,Gd,TA,No,Unf,0,Unf
+74,20,RL,85,10200,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,7,1954,2003,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,104,TA,TA,CBlock,TA,TA,No,ALQ,320,BLQ
+75,50,RM,60,5790,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,OldTown,Norm,Norm,1Fam,2Story,3,6,1915,1950,Gambrel,CompShg,VinylSd,VinylSd,None,0,Gd,Gd,CBlock,Fa,TA,No,Unf,0,Unf
+76,180,RM,21,1596,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,MeadowV,Norm,Norm,Twnhs,SLvl,4,5,1973,1973,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock,Gd,TA,Gd,GLQ,462,Unf
+77,20,RL,NA,8475,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,4,7,1956,1956,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock,TA,TA,No,ALQ,228,Unf
+78,50,RM,50,8635,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,BrkSide,Norm,Norm,1Fam,1.5Fin,5,5,1948,2001,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock,TA,TA,No,BLQ,336,GLQ
+79,90,RL,72,10778,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Sawyer,Norm,Norm,Duplex,1Story,4,5,1968,1968,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock,TA,TA,No,Unf,0,Unf
+80,50,RM,60,10440,Pave,Grvl,Reg,Lvl,AllPub,Corner,Gtl,OldTown,Norm,Norm,1Fam,2Story,5,6,1910,1981,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc,TA,TA,No,Unf,0,Unf
+81,60,RL,100,13000,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,NAmes,Norm,Norm,1Fam,2Story,6,6,1968,1968,Gable,CompShg,VinylSd,VinylSd,BrkFace,576,TA,Gd,CBlock,Gd,TA,No,Rec,448,Unf
+82,120,RM,32,4500,Pave,NA,Reg,Lvl,AllPub,FR2,Gtl,Mitchel,Norm,Norm,TwnhsE,1Story,6,5,1998,1998,Hip,CompShg,VinylSd,VinylSd,BrkFace,443,TA,Gd,PConc,Ex,Gd,No,GLQ,1201,Unf
+83,20,RL,78,10206,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,Somerst,Norm,Norm,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,468,TA,TA,PConc,Gd,TA,No,GLQ,33,Unf
+84,20,RL,80,8892,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,5,1960,1960,Gable,CompShg,MetalSd,MetalSd,BrkCmn,66,TA,TA,CBlock,TA,TA,No,Unf,0,Unf
+85,80,RL,NA,8530,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm,1Fam,SLvl,7,5,1995,1996,Gable,CompShg,HdBoard,HdBoard,BrkFace,22,TA,TA,PConc,Gd,TA,No,Unf,0,Unf
+86,60,RL,121,16059,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,NoRidge,Norm,Norm,1Fam,2Story,8,5,1991,1992,Hip,CompShg,HdBoard,HdBoard,BrkFace,284,Gd,TA,CBlock,Gd,TA,No,Unf,0,Unf
+87,60,RL,122,11911,Pave,NA,IR2,Lvl,AllPub,Inside,Gtl,Gilbert,Norm,Norm,1Fam,2Story,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc,Gd,TA,Av,Unf,0,Unf
+88,160,FV,40,3951,Pave,Pave,Reg,Lvl,AllPub,Corner,Gtl,Somerst,Norm,Norm,TwnhsE,2Story,6,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,Stone,76,Gd,TA,PConc,Gd,TA,Av,Unf,0,Unf
+89,50,C (all),105,8470,Pave,NA,IR1,Lvl,AllPub,Corner,Gtl,IDOTRR,Feedr,Feedr,1Fam,1.5Fin,3,2,1915,1982,Hip,CompShg,Plywood,Plywood,None,0,Fa,Fa,CBlock,TA,Fa,No,Unf,0,Unf
+90,20,RL,60,8070,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,1Story,4,5,1994,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc,Gd,TA,No,GLQ,588,Unf
+91,20,RL,60,7200,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,4,5,1950,1950,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,Slab,NA,NA,NA,NA,0,NA
+92,20,RL,85,8500,Pave,NA,Reg,Lvl,AllPub,Inside,Gtl,NAmes,Norm,Norm,1Fam,1Story,5,3,1961,1961,Hip,CompShg,HdBoard,HdBoard,BrkCmn,203,TA,TA,CBlock,TA,TA,No,Rec,600,Unf
+93,30,RL,80,13360,Pave,Grvl,IR1,HLS,AllPub,Inside,Gtl,Crawfor,Norm,Norm,1Fam,1Story,5,7,1921,2006,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,BrkTil,Gd,TA,No,ALQ,713,Unf
+94,190,C (all),60,7200,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,OldTown,Norm,Norm,2fmCon,2.5Unf,6,6,1910,1998,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil,TA,Fa,Mn,Rec,1046,Unf
+95,60,RL,69,9337,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,2Story,6,5,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,PConc,Gd,TA,No,GLQ,648,Unf
+96,60,RL,NA,9765,Pave,NA,IR2,Lvl,AllPub,Corner,Gtl,Gilbert,Norm,Norm,1Fam,2Story,6,8,1993,1993,Gable,CompShg,VinylSd,VinylSd,BrkFace,68,Ex,Gd,PConc,Gd,Gd,No,ALQ,310,Unf
+97,20,RL,78,10264,Pave,NA,IR1,Lvl,AllPub,Inside,Gtl,CollgCr,Norm,Norm,1Fam,1Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,183,Gd,TA,PConc,Gd,TA,Av,ALQ,1162,Unf
+98,20,RL,73,10921,Pave,NA,Reg,HLS,AllPub,Inside,Gtl,Edwards,Norm,Norm,1Fam,1Story,4,5,1965,1965,Hip,CompShg,HdBoard,HdBoard,BrkFace,48,TA,TA,CBlock,TA,TA,No,Rec,520,Unf
+99,30,RL,85,10625,Pave,NA,Reg,Lvl,AllPub,Corner,Gtl,Edwards,Norm,Norm,1Fam,1Story,5,5,1920,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil,TA,TA,No,ALQ,108,Unf

@@ -1,6 +1,6 @@
 # TASK - 2
 
-<b><span style="color: #FF6363; font-size: 2rem;">Data Visualisation</style></b>
+<b><span style="color: #FF6363; font-size: 2rem;">Data Visualisation</b>
 
 #### A Data Visualization Task is a data analysis task that is a visualization task (to communicate data by encoding it as visual objects). Context: It can (typically) involve a Data Scientist. It can be supported by a Data Visualization System (that implements a data visualization algorithm)
 
@@ -47,4 +47,7 @@ Hint : - Expected Output: {(7,49), (2,4), (4,16), (6,36), (3,9), (5,25), (9,81)}
 
 ## Submission
 
-<span style="color: #ECB390; font-weight: bold;">The Submission Link Will Be Updated Shortly With The Deadline. Stay Tunned!</span>
+<span style="color: #ECB390; font-weight: bold;">[Submission Link](https://forms.gle/kmxJtjkPecpHszah9)</span>
+  
+## Task Deadline 
+  5 June 2022 

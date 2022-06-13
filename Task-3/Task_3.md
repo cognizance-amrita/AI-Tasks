@@ -8,7 +8,7 @@ Machine learning (ML) is a category of an algorithm that allows software applica
 <br>
 
 ### Question - 1
-Prepare a short writeup on machine learning (consisting of what is ML, types and applications). Make use of the following references. <br>
+Prepare a short writeup on machine learning (consisting of what is ML, types and applications). Make use of the resources provided. <br>
 **Page Limit : 2**
 
 <br>

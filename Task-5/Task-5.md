@@ -48,6 +48,5 @@ Lasso Regression : Perform regression on Titanic Dataset.
 
 ### Deadline : TBA 
 ## Submission form
-<br>
 https://forms.gle/6nB59bPzig4kEAAAA
 <hr >

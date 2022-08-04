@@ -20,7 +20,7 @@ Logistic Regression: Perform regression on Titanic Dataset.
 
 Decision Tree Regression : Perform regression on Titanic Dataset. 
 
-**Algorithm :** https://medium.com/analytics-vidhya/machine-learning-decision-tree-regression-ff8563ffaf52
+[**Algorithm**](https://medium.com/analytics-vidhya/machine-learning-decision-tree-regression-ff8563ffaf52)
 
 <br>
 
@@ -28,7 +28,7 @@ Decision Tree Regression : Perform regression on Titanic Dataset.
 
 Support Vector Regression : Perform regression on Titanic Dataset. 
 
-**Algorithm :** https://www.educba.com/support-vector-regression/
+[**Algorithm**](https://www.educba.com/support-vector-regression/)
 
 <br>
 
@@ -36,7 +36,7 @@ Support Vector Regression : Perform regression on Titanic Dataset.
 
 Ridge Regression : Perform regression on Titanic Dataset. 
 
-**Algorithm :** https://www.mygreatlearning.com/blog/what-is-ridge-regression/
+[**Algorithm**](https://www.mygreatlearning.com/blog/what-is-ridge-regression/)
 
 <br>
 
@@ -44,7 +44,7 @@ Ridge Regression : Perform regression on Titanic Dataset.
 
 Lasso Regression : Perform regression on Titanic Dataset.
 
-**Algorithm :** https://www.mygreatlearning.com/blog/understanding-of-lasso-regression/
+[**Algorithm**](https://www.mygreatlearning.com/blog/understanding-of-lasso-regression/)
 
 <br>
 

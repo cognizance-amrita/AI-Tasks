@@ -12,7 +12,9 @@ Regression analysis is a statistical method to model the relationship between a 
 
 Logistic Regression: Perform regression on Titanic Dataset. 
 
-**Algorithm :** https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/
+[**Algorithm**](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/)
+
+<br>
 
 ### Question 2 
 
@@ -20,6 +22,7 @@ Decision Tree Regression : Perform regression on Titanic Dataset.
 
 **Algorithm :** https://medium.com/analytics-vidhya/machine-learning-decision-tree-regression-ff8563ffaf52
 
+<br>
 
 ### Question 3
 
@@ -27,11 +30,15 @@ Support Vector Regression : Perform regression on Titanic Dataset.
 
 **Algorithm :** https://www.educba.com/support-vector-regression/
 
+<br>
+
 ### Question 4 
 
 Ridge Regression : Perform regression on Titanic Dataset. 
 
 **Algorithm :** https://www.mygreatlearning.com/blog/what-is-ridge-regression/
+
+<br>
 
 ### Question 5 
 
@@ -39,6 +46,7 @@ Lasso Regression : Perform regression on Titanic Dataset.
 
 **Algorithm :** https://www.mygreatlearning.com/blog/understanding-of-lasso-regression/
 
+<br>
 
 
 ### Mandatory 
@@ -46,7 +54,12 @@ Lasso Regression : Perform regression on Titanic Dataset.
 - Conclude with analysis of all 5 algorithms
 <hr >
 
+<br>
+
 ### Deadline : TBA 
+
+<br>
+
 ## Submission form
 https://forms.gle/6nB59bPzig4kEAAAA
 <hr >

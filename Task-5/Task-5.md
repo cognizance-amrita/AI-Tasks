@@ -56,7 +56,7 @@ Lasso Regression : Perform regression on Titanic Dataset.
 
 <br>
 
-### Deadline : TBA 
+### Deadline : 20th August 2022, 11:59 p.m.
 
 <br>
 

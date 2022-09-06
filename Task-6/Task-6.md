@@ -13,6 +13,7 @@ There are many clustering algorithms to choose from and no single best clusterin
 ### Question 1 
 
 K-means clustering algorithm: Perform clustering on the following Dataset. 
+
 [**Dataset**](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/data)
 
 [**Algorithm**](https://www.analyticsvidhya.com/blog/2021/11/understanding-k-means-clustering-in-machine-learningwith-examples/)
